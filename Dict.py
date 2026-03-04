@@ -9,3 +9,10 @@ a={"name":"Sayooj",
    "Year":"Third"}
 
 Dict(a)
+
+def Recursion():
+    print("HI")
+Recursion()
+def Hello():
+
+    

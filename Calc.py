@@ -32,3 +32,5 @@ elif c=="/":
     div(a,b,c)
 else:
     print("Invalid Syntax")
+
+    Doc
